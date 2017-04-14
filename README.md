@@ -10,10 +10,10 @@ Er is niet zoveel om erover te vertellen, behalve dat als je het wilt opstarten 
 
 Ik kon het niet op hosting zetten voor live demo omdat door nature van dit project, het neemt heftige calculaties en ik kon geen echte hosting vinden dit het zou 30 seconden doorlaten zonder om het direct afkappen. In plaats daarvan heb ik verkende offline voorbeeld en screenshots:
 
-- <a href="https://raw.githubusercontent.com/comeon101/project_0001_rest_json_php_api/master/demo/index%20desktop.png">Start pagina</a>
-- <a href="https://raw.githubusercontent.com/comeon101/project_0001_rest_json_php_api/master/demo/player%20desktop.png">Speler pagina met data</a>
-- <a href="https://raw.githubusercontent.com/comeon101/project_0001_rest_json_php_api/master/demo/player%20desktop%20loading.png">Transition met JavaScript</a>
-- <a href="https://raw.githubusercontent.com/comeon101/project_0001_rest_json_php_api/master/demo/player%20mobile%20horizontal.png">Mobiel horizontal speler data</a>
-- <a href="https://raw.githubusercontent.com/comeon101/project_0001_rest_json_php_api/master/demo/player%20mobile%20vertical.png">Mobiel verticaal speler data.</a>
+- <a href="https://raw.githubusercontent.com/comeon101/001_rest_php_json_api/master/demo/index%20desktop.png">Start pagina</a>
+- <a href="https://raw.githubusercontent.com/comeon101/001_rest_php_json_api/master/demo/player%20desktop.png">Speler pagina met data</a>
+- <a href="https://raw.githubusercontent.com/comeon101/001_rest_php_json_api/master/demo/player%20desktop%20loading.png">Transition met JavaScript</a>
+- <a href="https://raw.githubusercontent.com/comeon101/001_rest_php_json_api/master/demo/player%20mobile%20horizontal.png">Mobiel horizontal speler data</a>
+- <a href="https://raw.githubusercontent.com/comeon101/001_rest_php_json_api/master/demo/player%20mobile%20vertical.png">Mobiel verticaal speler data.</a>
 
 Ik had geen concrete finale product in mijn hoofd, dus waardeer het op code en functies gebruikt. Met gedefineerde project en goede plan zou ik het in iets veel beters kunnen maken. Maar ik weet niet wat mijn toekomstige baas zou fijn vinden.
