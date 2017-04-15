@@ -1,8 +1,8 @@
 Simpel project. Neemt data uit Riot Games API over spelers van spel League of Legends. Het krijgt <b>JSON</b> van <b>REST</b> API terug. Dan neem ik alle benodigde data en laat het aan gebruiker zien. Het heeft <b>cache systeem</b>, dus als data van gebruiker niet verandert sinds laatste keer, dan wordt data uit database verzonden. Dat voorkomt overhead in PHP requests.
 
-Dit project is <b>responsive</b> voor <b>kleine en gewone schermen</b>, <b>mobielen op landscape en portrait</b>. Werkt net <b>zonder JavaScript</b> maar heeft wel nuttige <b>progressive enhancement</b> ermee.
+Dit project is <b>responsive</b> voor <b>kleine en gewone schermen</b>, <b>mobielen op landscape en portrait</b>. Werkt wel <b>zonder JavaScript</b> maar heeft wel nuttige <b>progressive enhancement</b> ermee.
 
-Dit is "production result", dus ik heb bestanden niet echt geminimaliseerd (zou alle commentaren verwijderen). Het project is vrijwel klein qua functionaliteit, maar ik zou u liever hebben kijken naar functies die ik gebruik en de manier waarop ik code schrijf. Er is geen "maak dit project, dan vindt elk werkgever goed".
+Dit is "production result", dus ik heb geen bestanden geminimaliseerd (zou alle commentaren verwijderen). Het project is vrijwel klein qua functionaliteit, maar ik zou u liever hebben kijken naar functies die ik gebruik en de manier waarop ik code schrijf. Er is geen "maak dit project, dan vindt elk werkgever goed".
 
 Er is niet zoveel om erover te vertellen, behalve dat als je het wilt opstarten u moet:
 - MySQL verbinding informatie veranderen in `__sys/res/dbconn.php`.
