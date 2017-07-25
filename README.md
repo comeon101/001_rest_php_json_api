@@ -2,13 +2,13 @@ Simpel project. Neemt data uit Riot Games API over spelers van spel League of Le
 
 Dit project is <b>responsive</b> voor <b>kleine en gewone schermen</b>, <b>mobielen op landscape en portrait</b>. Werkt wel <b>zonder JavaScript</b> maar heeft wel nuttige <b>progressive enhancement</b> ermee.
 
-Dit is "production result", dus ik heb geen bestanden geminimaliseerd (zou alle commentaren verwijderen). Het project is vrijwel klein qua functionaliteit, maar ik zou u liever hebben kijken naar functies die ik gebruik en de manier waarop ik code schrijf. Er is geen "maak dit project, dan vindt elk werkgever goed".
+Dit is "production result", dus ik heb geen bestanden geminimaliseerd (zou alle commentaren verwijderen). Het project is vrijwel klein qua functionaliteit, maar ik zou u liever hebben kijken naar functies die ik gebruik en de manier waarop ik code schrijf. Er is geen "maak dit project, dat vindt elk werkgever goed".
 
 Er is niet zoveel om erover te vertellen, behalve dat als je het wilt opstarten u moet:
 - MySQL verbinding informatie veranderen in `__sys/res/dbconn.php`.
 - URL veranderen zodat het wijst op `__sys` in `__sys/loader.php`.
 
-Ik kon het niet op hosting zetten voor live demo omdat door nature van dit project, het neemt heftige calculaties en ik kon geen echte hosting vinden dit het zou 30 seconden doorlaten zonder om het direct afkappen. In plaats daarvan heb ik verkende offline voorbeeld en screenshots:
+Ik kon het niet op hosting zetten voor live demo omdat door nature van dit project, het neemt heftige calculaties en ik kon geen echte hosting vinden dit het zou 30 seconden doorlaten zonder om het direct afkappen. In plaats daarvan heb ik werkende offline voorbeeld en screenshots:
 
 - <a href="https://raw.githubusercontent.com/comeon101/001_rest_php_json_api/master/demo/index%20desktop.png">Start pagina</a>
 - <a href="https://raw.githubusercontent.com/comeon101/001_rest_php_json_api/master/demo/player%20desktop.png">Speler pagina met data</a>
